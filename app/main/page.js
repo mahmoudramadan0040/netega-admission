@@ -1,7 +1,11 @@
+
+
+import National_Component from './nationalComponent.jsx';
 function MainPage() {
+
     return ( 
         <div>
-            <h1>Main Page</h1>
+             <National_Component></National_Component>
         </div>
      );
 }
